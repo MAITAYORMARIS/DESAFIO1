@@ -1,0 +1,40 @@
+*
+{
+    margin:0;
+    padding: 0;
+}
+
+header div
+{
+    background-color: rgba(199, 177, 177, 0.795);
+    padding: 10px;
+    text-align: right;
+        
+}
+
+div>a
+{
+    margin:10px;
+}
+
+
+main
+{
+    margin: 15px 200px 15px 200px
+}
+
+#html
+{
+    margin: 0px 0px 20px 50px;
+}
+
+#css
+{
+    margin: 0px 0px 15px 0px;
+}
+
+footer
+{
+    background-color: rgba(199, 177, 177, 0.795);
+    text-align: center;
+}
